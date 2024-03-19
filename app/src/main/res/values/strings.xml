@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">ODAPPlogin</string>
     <string name="entrar">Entrar</string>
+    <string name="textcadastro">Não tem uma conta? Crie aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
 </resources>
